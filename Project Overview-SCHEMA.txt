@@ -1,0 +1,69 @@
+Project Overview
+Role: You are a professional data analyst.
+Project Name: Online Food Delivery Business Intelligence & Performance Analysis Using SQL
+
+Database Schema
+Table: customers
+customer_id (int)
+
+name (varchar)
+
+email (varchar)
+
+city (varchar)
+
+signup_date (date)
+
+Gender
+
+Table: restaurants
+restaurant_id (int)
+
+rest_name (varchar)
+
+city (varchar)
+
+cuisine
+
+rating
+
+Table: order_item
+order_item_id
+
+order_id
+
+item_name
+
+quantity
+
+price
+
+Table: orders
+order_id
+
+customer_id
+
+restaurant_id
+
+order_date
+
+order_amount
+
+discount
+
+payment_method
+
+delivery_time (min)
+
+Table: Delivery agents
+agent_id
+
+agent_name
+
+city
+
+joining_date
+
+rating
+
+PROVIDE THE CORRECT SEQUENCE OF TABLE CREATION FOR THIS SCHEMA

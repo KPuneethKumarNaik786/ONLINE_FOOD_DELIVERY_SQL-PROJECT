@@ -1,0 +1,6 @@
+"city","avg_delivery_time_minutes","total_deliveries","min_delivery_time","max_delivery_time","stddev_delivery_time"
+"Delhi","39.29","191",20,60,11.69
+"Bangalore","39.49","191",20,60,12.29
+"Kolkata","39.55","208",20,60,11.94
+"Chennai","41.09","235",20,60,12.09
+"Mumbai","41.54","175",20,60,12.38
